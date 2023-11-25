@@ -1,10 +1,78 @@
 {
     "posts": [
-      { "id": 1, "title": "json-server", "author": "typicode" },
-      { "id": 2, "title": "json-server2", "author": "typicode2" }
+      { "id": 1, "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit", "author": "john" },
+      { "id": 2, "title": "Mauris dapibus risus quis suscipit vulputate", "author": "jane" },
+      { "id": 3, "title": "Donec quis mi sed magna hendrerit accumsan", "author": "jim" },
+      { "id": 4, "title": "Curabitur egestas consequat lorem", "author": "jim" },
+      { "id": 5, "title": "Vestibulum lacinia arcu eget nulla", "author": "john" },
+      { "id": 6, "title": "Suspendisse potenti", "author": "jane" },
+      { "id": 7, "title": "Nulla facilisi", "author": "jane" },
+      { "id": 8, "title": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec vitae lectus", "author": "jim" },
+      { "id": 9, "title": "Aliquam erat volutpat", "author": "jim" },
+      { "id": 10, "title": "Sed euismod nisi eget diam pretium sagittis", "author": "john" },
+      { "id": 11, "title": "Nulla facilisi", "author": "jane" },
+      { "id": 12, "title": "Suspendisse potenti", "author": "jane" },
+      { "id": 13, "title": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec vitae lectus", "author": "jim" },
+      { "id": 14, "title": "Aliquam erat volutpat", "author": "jim" },
+      { "id": 15, "title": "Sed euismod nisi eget diam pretium sagittis", "author": "john" },
+      { "id": 16, "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit", "author": "john" },
+      { "id": 17, "title": "Mauris dapibus risus quis suscipit vulputate", "author": "jane" },
+      { "id": 18, "title": "Donec quis mi sed magna hendrerit accumsan", "author": "jim" }
     ],
     "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 }
+      { "id": 1, "body": "Some comment", "postId": 1 },
+      { "id": 2, "body": "Another comment", "postId": 2 },
+      { "id": 3, "body": "Yet another comment", "postId": 3 },
+      { "id": 4, "body": "Some comment", "postId": 4 },
+      { "id": 5, "body": "Another comment", "postId": 5 },
+      { "id": 6, "body": "Yet another comment", "postId": 6 },
+      { "id": 7, "body": "Some comment", "postId": 7 },
+      { "id": 8, "body": "Another comment", "postId": 8 },
+      { "id": 9, "body": "Yet another comment", "postId": 9 },
+      { "id": 10, "body": "Some comment", "postId": 10 },
+      { "id": 11, "body": "Another comment", "postId": 11 },
+      { "id": 12, "body": "Yet another comment", "postId": 12 },
+      { "id": 13, "body": "Some comment", "postId": 13 },
+      { "id": 14, "body": "Another comment", "postId": 14 },
+      { "id": 15, "body": "Yet another comment", "postId": 15 },
+      { "id": 16, "body": "Some comment", "postId": 16 },
+      { "id": 17, "body": "Another comment", "postId": 17 },
+      { "id": 18, "body": "Yet another comment", "postId": 18 }
+    ],
+    "users": [
+      {
+        "id": "59761c23b30d971669fb42ff",
+        "isActive": true,
+        "age": 36,
+        "name": "Dunlap Hubbard",
+        "gender": "male",
+        "company": "CEDWARD",
+        "email": "dunlaphubbard@cedward.com",
+        "phone": "+1 (890) 543-2508",
+        "address": "169 Rutledge Street, Konterra, Northern Mariana Islands, 8551"
+      },
+      {
+        "id": "59761c233d8d0f92a6b0570d",
+        "isActive": true,
+        "age": 24,
+        "name": "Kirsten Sellers",
+        "gender": "female",
+        "company": "EMERGENT",
+        "email": "kirstensellers@emergent.com",
+        "phone": "+1 (831) 564-2190",
+        "address": "886 Gallatin Place, Fannett, Arkansas, 4656"
+      },
+      {
+        "id": "59761c23fcb6254b1a06dad5",
+        "isActive": true,
+        "age": 30,
+        "name": "Acosta Robbins",
+        "gender": "male",
+        "company": "ORGANICA",
+        "email": "acostarobbins@organica.com",
+        "phone": "+1 (882) 441-3367",
+        "address": "697 Linden Boulevard, Sattley, Idaho, 1035"
+      }      
     ],
     "profile": { "name": "typicode" }
   }
